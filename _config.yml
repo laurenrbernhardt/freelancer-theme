@@ -24,13 +24,13 @@ disqus_shortname: myshortname
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: B0B0B0
-  secondary: E0AE25
-  secondary-dark: 96597E
+  secondary: 96597E
+  secondary-dark: E0AE25
 
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: Location
+  location: Grand Rapids, MI
   social: Around the Web
   credits: Credits
 
