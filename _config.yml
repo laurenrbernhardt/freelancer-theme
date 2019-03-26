@@ -39,13 +39,11 @@ social:
   - title: twitter
     url: http://twitter.com/loveyoulauren2
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: http://facebook.com/lauren.bernhardt3
+  - title: instagram
+    url: http://instagram.com/laurenrbernhardt
+  - title: LinkedIn
+    url: http://linkedin.com/in/lauren-bernhardt-41a66416b
 
 # Postal address (add as many lines as necessary)
 address:
